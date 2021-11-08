@@ -1,0 +1,16 @@
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\23.08.11.2021\Codes\EnumStructPolymorph\EnumStructPolymorph\bin\Debug\net5.0\EnumStructPolymorph.exe
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\23.08.11.2021\Codes\EnumStructPolymorph\EnumStructPolymorph\bin\Debug\net5.0\EnumStructPolymorph.deps.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\23.08.11.2021\Codes\EnumStructPolymorph\EnumStructPolymorph\bin\Debug\net5.0\EnumStructPolymorph.runtimeconfig.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\23.08.11.2021\Codes\EnumStructPolymorph\EnumStructPolymorph\bin\Debug\net5.0\EnumStructPolymorph.runtimeconfig.dev.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\23.08.11.2021\Codes\EnumStructPolymorph\EnumStructPolymorph\bin\Debug\net5.0\EnumStructPolymorph.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\23.08.11.2021\Codes\EnumStructPolymorph\EnumStructPolymorph\bin\Debug\net5.0\ref\EnumStructPolymorph.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\23.08.11.2021\Codes\EnumStructPolymorph\EnumStructPolymorph\bin\Debug\net5.0\EnumStructPolymorph.pdb
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\23.08.11.2021\Codes\EnumStructPolymorph\EnumStructPolymorph\obj\Debug\net5.0\EnumStructPolymorph.csproj.AssemblyReference.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\23.08.11.2021\Codes\EnumStructPolymorph\EnumStructPolymorph\obj\Debug\net5.0\EnumStructPolymorph.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\23.08.11.2021\Codes\EnumStructPolymorph\EnumStructPolymorph\obj\Debug\net5.0\EnumStructPolymorph.AssemblyInfoInputs.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\23.08.11.2021\Codes\EnumStructPolymorph\EnumStructPolymorph\obj\Debug\net5.0\EnumStructPolymorph.AssemblyInfo.cs
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\23.08.11.2021\Codes\EnumStructPolymorph\EnumStructPolymorph\obj\Debug\net5.0\EnumStructPolymorph.csproj.CoreCompileInputs.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\23.08.11.2021\Codes\EnumStructPolymorph\EnumStructPolymorph\obj\Debug\net5.0\EnumStructPolymorph.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\23.08.11.2021\Codes\EnumStructPolymorph\EnumStructPolymorph\obj\Debug\net5.0\ref\EnumStructPolymorph.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\23.08.11.2021\Codes\EnumStructPolymorph\EnumStructPolymorph\obj\Debug\net5.0\EnumStructPolymorph.pdb
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\23.08.11.2021\Codes\EnumStructPolymorph\EnumStructPolymorph\obj\Debug\net5.0\EnumStructPolymorph.genruntimeconfig.cache
